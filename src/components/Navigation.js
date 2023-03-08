@@ -79,7 +79,8 @@ const Navigation = () => {
           </li>
         </ul>
         <div className="signature">
-          <p>fromJulie - 2022</p>
+          {/* <p>fromJulie - 2022</p> */}
+          <a href="https://github.com/Julie-2022/React-cv">reactCv</a>
         </div>
       </div>
     </div>
