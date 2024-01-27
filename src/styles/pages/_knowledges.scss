@@ -82,7 +82,8 @@
         padding-top: 0.5rem;
 
         li {
-          color: $color-1;
+          color: $color-6;
+          font-size: larger;
         }
         .progressBar {
           height: 0.4rem;
@@ -127,7 +128,7 @@
         color: $color-3;
       }
       h5 {
-        color: $color-1;
+        color: $color-6;
         padding: 0.5rem 0 0.5rem 1rem;
       }
       p {

@@ -5,7 +5,7 @@ export const portfolioData = [
     languages: ["css"],
     languagesIcons: ["fab fa-css3-alt"],
     source: "https://github.com/Julie-2022/OpenclassroomsP2",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "Mission : Transformer une maquette en site web avec HTML et CSS. Scénario : Vous débutez votre alternance en tant que développeur web au sein de la start-up Booki. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer.",
     picture: "./media/booki.png",
   },
   {
@@ -14,17 +14,17 @@ export const portfolioData = [
     languages: ["sass", "css"],
     languagesIcons: ["fab fa-css3-alt", "fab fa-sass"],
     source: "https://github.com/Julie-2022/P3-Ohmyfood",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
-    picture: "./media/project2.JPG",
+    info: "Mission : Dynamisez une page web avec des animations CSS. Scénario : Vous venez d’être recruté chez Ohmyfood !, en tant que développeur junior. Ohmyfood! est une jeune startup qui voudrait s'imposer sur le marché de la restauration. L'objectif est de développer un site 100% mobile qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
+    picture: "./media/Ohmyfood.png",
   },
   {
     id: 3,
-    name: "La-panthere",
+    name: "La Panthère",
     languages: ["javascript", "css"],
     languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
     source: "https://github.com/Julie-2022/La-Panthere",
     source2: "https://github.com/Julie-2022/La-Panthere-modified",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "Mission : Optimisez un site existant. Scénario : Vous travaillez pour l'agence La Panthère, une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche. Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.",
     picture: "./media/project3.JPG",
   },
   {
@@ -33,7 +33,7 @@ export const portfolioData = [
     languages: ["javascript", "css"],
     languagesIcons: ["fab fa-js", "fab fa-react"],
     source: "https://github.com/Julie-2022/P5-Kanap-Javascript",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "Mission : Construire un site e-commerce en JavaScript. Scénario : Vous êtes en poste dans une agence de développement web depuis quelques semaines maintenant. Après avoir réalisé avec succès l’intégration de quelques sites web (HTML/CSS), on vous confie une nouvelle mission. Votre client est Kanap, une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.",
     picture: "./media/project4.JPG",
   },
   {
@@ -42,7 +42,7 @@ export const portfolioData = [
     languages: ["javascript", "css"],
     languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
     source: "https://github.com/Julie-2022/P6-Piiquante",
-    info: "Objectif du projet : construire une API REST sécurisée pour une application d'avis gastronomique. Piiquante se dédie à la création de sauces épicées dont les recettes sont gardées secrètes. Pour tirer parti de son succès et générer davantage de buzz, l'entreprise souhaite créer une application web dans laquelle les utilisateurs peuvent ajouter leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres. Technologies, logiciels, langages, frameworks et plugins utilisés : Visual Studio Code, Git & GitHub, Javascript, NodeJs, Express, Mongoose, bcrypt, multer /JsonwebToken",
+    info: "Mission : construire une API REST sécurisée pour une application d'avis gastronomique. Scénario : Piiquante se dédie à la création de sauces épicées dont les recettes sont gardées secrètes. Pour tirer parti de son succès et générer davantage de buzz, l'entreprise souhaite créer une application web dans laquelle les utilisateurs peuvent ajouter leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres. Technologies, logiciels, langages, frameworks et plugins utilisés : Visual Studio Code, Git & GitHub, Javascript, NodeJs, Express, Mongoose, bcrypt, multer /JsonwebToken",
     picture: "./media/logoPiquante.png",
   },
   {
@@ -51,7 +51,7 @@ export const portfolioData = [
     languages: ["javascript", "react", "css"],
     languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
     source: "https://github.com/Julie-2022/React-app",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "Mission : Créez une application web de location immobilière avec React. Scénario : Kasa vous recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web. Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour, Kasa fait partie des leaders de la location d’appartements entre particuliers en France. L'occasion parfaite pour vous d'ajouter une belle référence à votre portfolio de freelance !",
     picture: "./media/project6.JPG",
   },
   // {
